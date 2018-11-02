@@ -1,0 +1,8 @@
+1	
+	Hvordan fjernes linien:
+	import entity.MatadorRafleBaeger;
+	i Klassen Out
+
+2	
+	Find passende testdata til 
+	 
